@@ -413,8 +413,16 @@ file = "mods/corpse-neoforge-1.1.22+26.3.jar"
 hash = "03109a81370c2515562ff06e777315aa979e0fe11f6025e513f94c5e1cf53a90"
 
 [[files]]
+file = "mods/curios-neoforge-17.0.1-26.3.jar"
+hash = "3f176c1aaadd2480adf36b1a47a9084598b3fde8207b9d1fd8c43fcd36977dd7"
+
+[[files]]
 file = "mods/easy-villagers-neoforge-1.1.49+26.3.jar"
 hash = "7048cf85f7661b9f085924afb7a0b9478103e96b4a34a581444b1b2a95084ff4"
+
+[[files]]
+file = "mods/elytraslot-neoforge-26.3-3.1.0.jar"
+hash = "032e0a2c3845b43ba2850068326606f587d4b5029400397bf881826dc120a871"
 
 [[files]]
 file = "mods/emotecraft-for-MC26.3-3.5.0-b.build.179.jar"
