@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/desk_cabinet_basic",
+      "model": "pfm:block/desk_cabinet_basic",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "type": "pfm:block/desk_cabinet_basic",
+      "model": "pfm:block/desk_cabinet_basic",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=north": {
+      "type": "pfm:block/desk_cabinet_basic",
+      "model": "pfm:block/desk_cabinet_basic",
+      "uvlock": true
+    },
+    "facing=west": {
+      "type": "pfm:block/desk_cabinet_basic",
+      "model": "pfm:block/desk_cabinet_basic",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_poplar_chair_dinner",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_poplar_chair_dinner"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

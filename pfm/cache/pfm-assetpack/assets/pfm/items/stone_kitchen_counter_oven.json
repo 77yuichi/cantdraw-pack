@@ -1,0 +1,14 @@
+{
+  "model": {
+    "block": "pfm:stone_kitchen_counter_oven",
+    "blockstate": {
+      "properties": {
+        "open": "false",
+        "lit": "false",
+        "facing": "south"
+      },
+      "id": "pfm:stone_kitchen_counter_oven"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

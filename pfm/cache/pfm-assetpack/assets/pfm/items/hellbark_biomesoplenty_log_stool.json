@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:hellbark_biomesoplenty_log_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:hellbark_biomesoplenty_log_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,13 @@
+name = "不會畫畫26.3"
+author = "11"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c2534c958fff8e89a7e8c57a74adc3d7be81e0293054eaf0a2e68ecbf7c578e"
+
+[versions]
+minecraft = "26.3"
+neoforge = "26.3.0.102"

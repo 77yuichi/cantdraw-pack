@@ -1,0 +1,21 @@
+filename = 'BiomesOPlenty-neoforge-26.3-26.3.0.0.7.jar'
+name = "Biomes O' Plenty"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.0.0.7'
+
+[download]
+hash = '0c2b138f2fab98ed29b3ab083197eed5a10552dc51e3b0dc36894b2cc009ab6780104e69d4a48d3602af3b6779533a1e7213e4f5881d961b5e62137c8f5c7980'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HXF82T3G/versions/TA74H5xC/BiomesOPlenty-neoforge-26.3-26.3.0.0.7.jar'
+
+[update.modrinth]
+mod-id = 'HXF82T3G'
+version = 'TA74H5xC'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's3dmwKy5'
+type = 'REQUIRED'

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "type": "pfm:block/modern_dinner_table",
+      "model": "pfm:block/modern_dinner_table",
+      "y": 90
+    },
+    "axis=x": {
+      "type": "pfm:block/modern_dinner_table",
+      "model": "pfm:block/modern_dinner_table"
+    }
+  }
+}

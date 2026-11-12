@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_mangrove_classic_nightstand",
+    "blockstate": {
+      "properties": {
+        "open": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_mangrove_classic_nightstand"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

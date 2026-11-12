@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:sulfur_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:sulfur_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

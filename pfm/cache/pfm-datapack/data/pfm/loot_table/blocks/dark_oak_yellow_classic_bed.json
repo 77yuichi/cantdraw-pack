@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "pfm:dark_oak_yellow_classic_bed",
+          "condition": {
+            "blocks": "pfm:dark_oak_yellow_classic_bed",
+            "state": {
+              "part": "head"
+            },
+            "type": "minecraft:match_block"
+          },
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

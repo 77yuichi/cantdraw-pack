@@ -1,0 +1,18 @@
+filename = 'chiikawa-neoforge-26.3-0.1.4.jar'
+name = 'Chiikawa'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1.4-beta-neoforge-26.3'
+
+[download]
+hash = '27fa4f150b146a1a6e486ad8045020a9089d845bfb046d7fca3110ff061bc3b4ccee3a8d482da6ef3ecf62d20d18f63db74c1dd06597ab8c2be5b5fe6242255c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pT971QUb/versions/ngtOKkWV/chiikawa-neoforge-26.3-0.1.4.jar'
+
+[update.modrinth]
+mod-id = 'pT971QUb'
+version = 'ngtOKkWV'

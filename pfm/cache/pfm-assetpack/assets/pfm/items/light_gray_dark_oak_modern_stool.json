@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:light_gray_dark_oak_modern_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:light_gray_dark_oak_modern_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:dark_wood_classic_nightstand",
+    "blockstate": {
+      "properties": {
+        "open": "false",
+        "facing": "west"
+      },
+      "id": "pfm:dark_wood_classic_nightstand"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:mangrove_classic_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:mangrove_classic_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

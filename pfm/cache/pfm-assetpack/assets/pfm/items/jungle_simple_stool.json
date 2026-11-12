@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:jungle_simple_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:jungle_simple_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

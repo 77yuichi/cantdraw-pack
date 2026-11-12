@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "pfm:cherry_purple_classic_bed",
+          "condition": {
+            "blocks": "pfm:cherry_purple_classic_bed",
+            "state": {
+              "part": "head"
+            },
+            "type": "minecraft:match_block"
+          },
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

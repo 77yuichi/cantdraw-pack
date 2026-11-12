@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/mirror",
+      "model": "pfm:block/gray_mirror",
+      "y": 90
+    },
+    "facing=south": {
+      "type": "pfm:block/mirror",
+      "model": "pfm:block/gray_mirror",
+      "y": 180
+    },
+    "facing=north": {
+      "type": "pfm:block/mirror",
+      "model": "pfm:block/gray_mirror"
+    },
+    "facing=west": {
+      "type": "pfm:block/mirror",
+      "model": "pfm:block/gray_mirror",
+      "y": 270
+    }
+  }
+}

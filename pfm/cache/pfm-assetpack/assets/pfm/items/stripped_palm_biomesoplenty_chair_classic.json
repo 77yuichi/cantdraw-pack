@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_palm_biomesoplenty_chair_classic",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_palm_biomesoplenty_chair_classic"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

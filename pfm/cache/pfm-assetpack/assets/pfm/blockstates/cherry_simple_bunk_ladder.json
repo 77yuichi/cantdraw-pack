@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/simple_bunk_ladder",
+      "model": "pfm:block/simple_bunk_ladder",
+      "y": 90
+    },
+    "facing=south": {
+      "type": "pfm:block/simple_bunk_ladder",
+      "model": "pfm:block/simple_bunk_ladder",
+      "y": 180
+    },
+    "facing=north": {
+      "type": "pfm:block/simple_bunk_ladder",
+      "model": "pfm:block/simple_bunk_ladder"
+    },
+    "facing=west": {
+      "type": "pfm:block/simple_bunk_ladder",
+      "model": "pfm:block/simple_bunk_ladder",
+      "y": 270
+    }
+  }
+}

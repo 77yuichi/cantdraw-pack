@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/kitchen_cabinet",
+      "model": "pfm:block/kitchen_cabinet",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "type": "pfm:block/kitchen_cabinet",
+      "model": "pfm:block/kitchen_cabinet",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=north": {
+      "type": "pfm:block/kitchen_cabinet",
+      "model": "pfm:block/kitchen_cabinet",
+      "uvlock": true
+    },
+    "facing=west": {
+      "type": "pfm:block/kitchen_cabinet",
+      "model": "pfm:block/kitchen_cabinet",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

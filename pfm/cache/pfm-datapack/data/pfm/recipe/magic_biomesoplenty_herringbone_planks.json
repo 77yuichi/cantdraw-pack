@@ -1,0 +1,15 @@
+{
+  "category": "building",
+  "key": {
+    "X": "biomesoplenty:magic_slab"
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "id": "pfm:magic_biomesoplenty_herringbone_planks",
+    "count": 4
+  },
+  "type": "minecraft:crafting_shaped"
+}

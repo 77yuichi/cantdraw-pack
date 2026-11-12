@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:diorite_chair_classic",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:diorite_chair_classic"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

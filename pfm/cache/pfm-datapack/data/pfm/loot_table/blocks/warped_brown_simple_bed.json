@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "pfm:warped_brown_simple_bed",
+          "condition": {
+            "blocks": "pfm:warped_brown_simple_bed",
+            "state": {
+              "part": "head"
+            },
+            "type": "minecraft:match_block"
+          },
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

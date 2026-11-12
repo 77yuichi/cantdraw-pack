@@ -1,0 +1,18 @@
+filename = 'TerraBlender-neoforge-26.3-26.3.0.0.9.jar'
+name = 'TerraBlender'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '26.3.0.0.9'
+
+[download]
+hash = '9a5ad8c5532a6a04158d42a6d25b5ad578b39dda6eeba042e4b16ebe799a0332fbd4db76576f6505cf6f93fbf216097abe980fd82c471f2beb2497c02403be2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kkmrDlKT/versions/Vmc9zVfq/TerraBlender-neoforge-26.3-26.3.0.0.9.jar'
+
+[update.modrinth]
+mod-id = 'kkmrDlKT'
+version = 'Vmc9zVfq'

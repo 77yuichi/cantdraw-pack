@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:origin_oak_biomesoplenty_classic_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:origin_oak_biomesoplenty_classic_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

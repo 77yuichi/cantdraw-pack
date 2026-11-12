@@ -1,0 +1,21 @@
+filename = 'cookingforblockheads-neoforge-26.3-26.3.0.2.jar'
+name = 'Cooking for Blockheads'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.0.2+neoforge-26.3'
+
+[download]
+hash = '11452721f42bba6c9879396bdd2c008bb0d0018cdac3d5166ac10eb88942fe9ddabe7091d18ec64b25971bd90a5da586e324670d7f73656fc699b64c18b4e962'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vJnhuDde/versions/AyGfTjV5/cookingforblockheads-neoforge-26.3-26.3.0.2.jar'
+
+[update.modrinth]
+mod-id = 'vJnhuDde'
+version = 'AyGfTjV5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

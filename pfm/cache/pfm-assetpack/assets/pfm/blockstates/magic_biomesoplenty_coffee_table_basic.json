@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "type": "pfm:block/coffee_table_basic",
+      "model": "pfm:block/coffee_table_basic"
+    },
+    "axis=x": {
+      "type": "pfm:block/coffee_table_basic",
+      "model": "pfm:block/coffee_table_basic",
+      "y": 90
+    }
+  }
+}

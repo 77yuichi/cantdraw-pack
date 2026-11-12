@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:mangrove_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:mangrove_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

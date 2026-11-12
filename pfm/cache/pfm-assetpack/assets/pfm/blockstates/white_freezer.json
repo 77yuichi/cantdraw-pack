@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/freezer",
+      "model": "pfm:block/white_freezer",
+      "y": 270
+    },
+    "facing=south": {
+      "type": "pfm:block/freezer",
+      "model": "pfm:block/white_freezer"
+    },
+    "facing=north": {
+      "type": "pfm:block/freezer",
+      "model": "pfm:block/white_freezer",
+      "y": 180
+    },
+    "facing=west": {
+      "type": "pfm:block/freezer",
+      "model": "pfm:block/white_freezer",
+      "y": 90
+    }
+  }
+}

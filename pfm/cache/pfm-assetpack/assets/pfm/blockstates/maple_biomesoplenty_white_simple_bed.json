@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/simple_bed",
+      "model": "pfm:block/simple_bed",
+      "y": 90
+    },
+    "facing=south": {
+      "type": "pfm:block/simple_bed",
+      "model": "pfm:block/simple_bed",
+      "y": 180
+    },
+    "facing=north": {
+      "type": "pfm:block/simple_bed",
+      "model": "pfm:block/simple_bed"
+    },
+    "facing=west": {
+      "type": "pfm:block/simple_bed",
+      "model": "pfm:block/simple_bed",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:jacaranda_biomesoplenty_log_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:jacaranda_biomesoplenty_log_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/fridge",
+      "model": "pfm:block/white_fridge",
+      "y": 270
+    },
+    "facing=south": {
+      "type": "pfm:block/fridge",
+      "model": "pfm:block/white_fridge"
+    },
+    "facing=north": {
+      "type": "pfm:block/fridge",
+      "model": "pfm:block/white_fridge",
+      "y": 180
+    },
+    "facing=west": {
+      "type": "pfm:block/fridge",
+      "model": "pfm:block/white_fridge",
+      "y": 90
+    }
+  }
+}

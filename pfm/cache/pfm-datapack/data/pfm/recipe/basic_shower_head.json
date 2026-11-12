@@ -1,0 +1,12 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:basic_shower_head"
+  },
+  "ingredients": [
+    "minecraft:water_bucket",
+    "minecraft:redstone",
+    "minecraft:iron_ingot"
+  ],
+  "type": "pfm:simple_furniture"
+}

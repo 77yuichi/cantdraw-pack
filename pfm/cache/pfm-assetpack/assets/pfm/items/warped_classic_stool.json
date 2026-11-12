@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:warped_classic_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:warped_classic_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

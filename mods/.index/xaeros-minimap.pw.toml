@@ -1,0 +1,21 @@
+filename = 'xaerominimap-neoforge-26.3-26.6.2.jar'
+name = "Xaero's Minimap"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-26.3-26.6.2'
+
+[download]
+hash = '6fbe6d09e48d14ed347072d226dc1b7c2a72fe45fe2cd62f56b01606f8ccd28b39efe7fe0c1592f26ba1d4957379c81e8cba57147c13c26fcf84c3551fabf4a9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/fibBhMQW/xaerominimap-neoforge-26.3-26.6.2.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'fibBhMQW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gF3BGWvG'
+type = 'OPTIONAL'

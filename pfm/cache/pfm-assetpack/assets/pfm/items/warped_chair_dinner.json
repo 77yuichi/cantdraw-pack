@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:warped_chair_dinner",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:warped_chair_dinner"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

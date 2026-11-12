@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:andesite_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:andesite_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

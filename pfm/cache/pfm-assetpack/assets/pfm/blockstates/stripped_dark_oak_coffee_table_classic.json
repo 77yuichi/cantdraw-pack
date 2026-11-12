@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "type": "pfm:block/coffee_table_classic",
+      "model": "pfm:block/coffee_table_classic"
+    }
+  }
+}

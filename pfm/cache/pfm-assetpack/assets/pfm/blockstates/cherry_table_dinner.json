@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/dinner_table",
+      "model": "pfm:block/dinner_table",
+      "y": 180
+    },
+    "facing=south": {
+      "type": "pfm:block/dinner_table",
+      "model": "pfm:block/dinner_table",
+      "y": 270
+    },
+    "facing=north": {
+      "type": "pfm:block/dinner_table",
+      "model": "pfm:block/dinner_table",
+      "y": 90
+    },
+    "facing=west": {
+      "type": "pfm:block/dinner_table",
+      "model": "pfm:block/dinner_table"
+    }
+  }
+}

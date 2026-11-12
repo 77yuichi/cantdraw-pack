@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:netherite_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:netherite_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

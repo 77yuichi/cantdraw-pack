@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "type": "pfm:block/desk_basic",
+      "model": "pfm:block/desk_basic"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:basalt_chair_modern",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:basalt_chair_modern"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

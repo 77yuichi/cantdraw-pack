@@ -1,0 +1,17 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:iron_fridge"
+  },
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:chest"
+  ],
+  "type": "pfm:simple_furniture"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "type": "pfm:block/herringbone_planks",
+      "model": "pfm:block/herringbone_planks"
+    }
+  }
+}

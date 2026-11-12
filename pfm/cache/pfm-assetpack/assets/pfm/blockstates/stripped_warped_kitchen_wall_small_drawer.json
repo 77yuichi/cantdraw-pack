@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=east": {
+      "type": "pfm:block/kitchen_wall_small_drawer",
+      "model": "pfm:block/kitchen_wall_small_drawer",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "type": "pfm:block/kitchen_wall_small_drawer",
+      "model": "pfm:block/kitchen_wall_small_drawer",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=north": {
+      "type": "pfm:block/kitchen_wall_small_drawer",
+      "model": "pfm:block/kitchen_wall_small_drawer",
+      "uvlock": true
+    },
+    "facing=west": {
+      "type": "pfm:block/kitchen_wall_small_drawer",
+      "model": "pfm:block/kitchen_wall_small_drawer",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

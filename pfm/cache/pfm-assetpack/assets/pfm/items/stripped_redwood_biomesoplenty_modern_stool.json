@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_redwood_biomesoplenty_modern_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_redwood_biomesoplenty_modern_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

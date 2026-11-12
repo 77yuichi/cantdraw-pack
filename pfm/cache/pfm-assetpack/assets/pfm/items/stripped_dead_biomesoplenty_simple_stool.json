@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_dead_biomesoplenty_simple_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_dead_biomesoplenty_simple_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

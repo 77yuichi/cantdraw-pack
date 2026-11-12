@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:acacia_classic_nightstand",
+    "blockstate": {
+      "properties": {
+        "open": "false",
+        "facing": "west"
+      },
+      "id": "pfm:acacia_classic_nightstand"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

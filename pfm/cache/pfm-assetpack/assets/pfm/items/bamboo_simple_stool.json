@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:bamboo_simple_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:bamboo_simple_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

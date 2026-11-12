@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:bamboo_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:bamboo_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

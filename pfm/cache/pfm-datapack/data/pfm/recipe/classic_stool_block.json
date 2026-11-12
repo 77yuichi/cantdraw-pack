@@ -1,0 +1,61 @@
+{
+  "group": "stools",
+  "result": {
+    "outputClass": "ClassicStoolBlock",
+    "count": 4
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:poplar",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "biomesoplenty:origin_oak",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal",
+    "minecraft:stone",
+    "minecraft:calcite",
+    "minecraft:light_wood",
+    "minecraft:dark_wood",
+    "minecraft:pink_wood",
+    "minecraft:quartz",
+    "minecraft:netherite",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:tuff",
+    "minecraft:sulfur",
+    "minecraft:cinnabar",
+    "minecraft:deepslate",
+    "biomesoplenty:sphalerite",
+    "biomesoplenty:orpiment"
+  ],
+  "ingredients": {
+    "variantChildren": {
+      "secondary": 3,
+      "base": 2
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

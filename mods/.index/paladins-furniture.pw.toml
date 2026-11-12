@@ -1,0 +1,21 @@
+filename = 'paladin-furniture-mod-1.5.1-neoforge-mc26.3.jar'
+name = "Paladin's Furniture Mod"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3-v1.5.1-neoforge'
+
+[download]
+hash = 'c456a7cd1ac21f5b10c21775884afbfc47c059d72d0a6a0bd17bf192953320888fb71373e11f77abe543864b3f3e6998258e0537ab5f5ca5d563195af957c9bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SISz7Qd3/versions/PxRJGSK5/paladin-furniture-mod-1.5.1-neoforge-mc26.3.jar'
+
+[update.modrinth]
+mod-id = 'SISz7Qd3'
+version = 'PxRJGSK5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

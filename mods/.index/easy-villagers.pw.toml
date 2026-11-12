@@ -1,0 +1,25 @@
+filename = 'easy-villagers-neoforge-1.1.49+26.3.jar'
+name = 'Easy Villagers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.1.49+26.3'
+
+[download]
+hash = 'acc5ac662968a9057e11ca09da70578ca36abe715fe7d3e1551d1352c46bc26e74ae8f305551428529314880dc4ad581f246eb3b5201a11ecbd8328091140f52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kaov2qgi/versions/OrdSOsKe/easy-villagers-neoforge-1.1.49%2B26.3.jar'
+
+[update.modrinth]
+mod-id = 'Kaov2qgi'
+version = 'OrdSOsKe'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'

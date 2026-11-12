@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "pfm:basic_lamp",
+          "modifier": {
+            "source": "block_entity",
+            "include": [
+              "pfm:variant",
+              "pfm:color"
+            ],
+            "type": "minecraft:copy_components"
+          },
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1,
+      "bonus_rolls": 1.0
+    }
+  ]
+}

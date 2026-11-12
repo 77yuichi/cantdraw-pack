@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:redwood_biomesoplenty_chair_modern",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:redwood_biomesoplenty_chair_modern"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

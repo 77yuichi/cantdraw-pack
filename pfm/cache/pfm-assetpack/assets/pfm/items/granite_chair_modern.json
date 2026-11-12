@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:granite_chair_modern",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:granite_chair_modern"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:palm_biomesoplenty_classic_nightstand",
+    "blockstate": {
+      "properties": {
+        "open": "false",
+        "facing": "west"
+      },
+      "id": "pfm:palm_biomesoplenty_classic_nightstand"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:stripped_poplar_modern_stool",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:stripped_poplar_modern_stool"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

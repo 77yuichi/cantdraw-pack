@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:dark_wood_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:dark_wood_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}

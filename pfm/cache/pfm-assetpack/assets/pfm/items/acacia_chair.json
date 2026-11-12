@@ -1,0 +1,13 @@
+{
+  "model": {
+    "block": "pfm:acacia_chair",
+    "blockstate": {
+      "properties": {
+        "tucked": "false",
+        "facing": "west"
+      },
+      "id": "pfm:acacia_chair"
+    },
+    "type": "pfm:furniture_model"
+  }
+}
