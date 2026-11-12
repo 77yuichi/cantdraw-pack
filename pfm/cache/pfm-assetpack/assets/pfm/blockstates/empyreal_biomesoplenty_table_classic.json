@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": {
-      "type": "pfm:block/table_classic",
-      "model": "pfm:block/table_classic"
-    }
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "": {
-      "type": "pfm:block/basic_lamp",
-      "model": "pfm:block/basic_lamp"
-    }
-  }
-}
