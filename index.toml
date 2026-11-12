@@ -381,8 +381,8 @@ file = "mods/appleskin-neoforge-mc26.3-3.0.10.jar"
 hash = "1b12ae7b7f129821957c33c6efee0ff1da25af1c4ed8b1f1fa112f41244928e7"
 
 [[files]]
-file = "mods/armor-hider-neoforge-0.14.6+mc-26.1.0-2.jar"
-hash = "a8c9356d30e21bad99af029b74c99b636dcf53e5d35a67a7ba8c70133dd169c9"
+file = "mods/armor-hider-neoforge-0.14.6+26.3.jar"
+hash = "9f33a9d37f06aafdd3aa86acff102573dd4ea09074dcbb005bfe3fd9fbdf74dc"
 
 [[files]]
 file = "mods/balm-neoforge-26.3-26.3.0.3.jar"
