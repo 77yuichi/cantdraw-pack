@@ -465,12 +465,28 @@ file = "mods/lootr-neoforge-26.3-1.25.42.124.jar"
 hash = "ecdc2c692ce2450d24e8a5251668b6752d8afefdad40eb2838a943f8c6d217fe"
 
 [[files]]
+file = "mods/mcw-doors-1.1.5-mc26.3neoforge.jar"
+hash = "0ceb84d6dddfada6a32be7a754d6f10c5d5f22776a44e5a4ab47268ca06c264e"
+
+[[files]]
+file = "mods/mcw-roofs-2.3.3-mc26.3neoforge.jar"
+hash = "4795e0f0265719751996f7ec5bfeba5a506138e825875929cc91863cd650c5de"
+
+[[files]]
+file = "mods/mcw-windows-2.4.2-mc26.3neoforge.jar"
+hash = "e10ac65c6c6f9a98831582ed408c715398d3fccc71c11e6bc9995056feed4c5e"
+
+[[files]]
 file = "mods/paladin-furniture-mod-1.5.1-neoforge-mc26.3.jar"
 hash = "d7951d99d71e9884e5a8443cca567c63c4676889adf726cb4608c210791b0b09"
 
 [[files]]
 file = "mods/patchouli-neoforge-26.3-94+port.2.jar"
 hash = "f154386d9443dfa06335e3b22db8cfc6f451577bf7cd8011c5b2bf91c3fe68a7"
+
+[[files]]
+file = "mods/puzzleslib-v26.3.18-mc26.3.x-neoforge.jar"
+hash = "594fcf403ff2ffd2488429522dce570277b418c3e038dbc753567154f79cd157"
 
 [[files]]
 file = "mods/shogi-neoforge-26.3-26.3.0.3.jar"
@@ -497,6 +513,10 @@ file = "mods/supermartijn642corelib-1.1.26d-neoforge-mc26.3.jar"
 hash = "a70fe2d83f3cf890640fb0a6402890d62e8d1b9b3b0d1c199b3bbad21ca71700"
 
 [[files]]
+file = "mods/visualworkbench-v26.3.0-mc26.3.x+neoforge.jar"
+hash = "cfea6961a04c9d9969a63874ddcc892e5a6316a4ac761941128f48321524ca25"
+
+[[files]]
 file = "mods/voicechat-neoforge-2.6.27+26.3.jar"
 hash = "c9e8f94880751c5b7bd187b5a63cec721c13b0e0e1a783a9442deee028f6cd4a"
 
@@ -510,7 +530,7 @@ hash = "6d6d41941df8aec26381cd628742aa15e823b18775e4c56683314597b68ff873"
 
 [[files]]
 file = "resourcepacks/ZH-TW-Translation-Pack.zip"
-hash = "b0f7f5dd454ac490f5513309c9ec392583cfa6eacac63aec0b614f155a6ee19e"
+hash = "609c27337aeec676fea978dee14835a2fc0a6d7259561fa3feb51839eec56902"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.8.zip"
